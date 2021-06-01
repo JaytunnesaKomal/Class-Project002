@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+}
+.box{
+	font-size: 50px;
+	background-color: #ffffff;
+	text-align: center;
+	width: auto;
+    margin: 20px;
+    padding: 2px 2px 2px;
+}
+h1{}
+img{
+	width: 60%
+}
+h2{
+	text-align: center;
+}
+.container{
+	text-align: center;
+	width: 1500px;
+	display: flex;
+	margin left: 200px;
+	padding: 10px;
+}
+.porduct{
+	width: 50%;
+	text-align: center;
+}
+h3{}
+h4{}
+Span{
+	font-weight: 300;
+	text-decoration: line-through;
+}
+button{
+	background-color: seagreen;
+	color: white;
+	padding: 5px 10px;
+	border: 2px solid red;
+	border-radius: 30px;
+	cursor: pointer;
+}
+button:hover{
+	background-color: white;
+	color: seagreen;
+}
